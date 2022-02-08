@@ -31,7 +31,7 @@ Consente di visualizzare un prodotto già venduto. E' necessario fornire l'id de
 * (4) Aggiungi un nuovo utente:
 Permette di aggiungere un nuovo utente, per ogni utente inserito è necessario fornire un id, un nome, un cognome, una data di nascita (in formato dd/mm/yyyy), un indirizzo e un documento d'identità.
 * (5) Esporta i prodotti disponibili su file:
-Esporta i prodotti diposnibili su file .csv nominato con la data del giorno (riviste_dd_mm_yyyy).
+Esporta i prodotti diposnibili su file .csv nominato con la data del giorno (prodotti_dd_mm_yyyy).
 * (6) Visualizza tutti gli utenti:
 Visualizza tutti gli utenti presenti nell'applicazione.
 * (0) ESCI: Termina l'esecuzione dell'applicazione.
